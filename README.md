@@ -1,6 +1,6 @@
 # Template for new repositories
 
-This template is intended to be used during the development of a research project, a manuscript, or any publication that can be later "frozen" in time.
+This template is intended to be used during the development of a *research project*, a *manuscript*, or *any publication* that can be later "frozen" in time.
 That is, the template seeks to create a structure that allows future readers to observe original data, pre-process methods, models (and versions), and results.
 This template may not accommodate dynamic projects that evolve with time (i.e. models that are planned to be maintained).
 
@@ -15,11 +15,11 @@ The most convenient workflow to use this template would be:
 6: Develop your project using the structure proposed in the template. For more information go to "How to work with this project "structure""
 7: Upload the final products (such as publications, figures, maps, etc) to the folder with appropriate (authorized) formats.
 8: To "archive your project", add the reference(s) (of the project report, research article, or article) developed within the project to the README file.
-8: Rename your project adding the word "_FROZEN" at the end.
+8: Rename your project by adding the word "_FROZEN" at the end (this avoids "archiving" your repository, although that is an additional option).
 
 In that way, the project is assumed to be finalized and should not have new commits.
 
-## How to work with this project "structure"
+## How to work with this template
 
 The recommendations below are general and the final way of using the template is up to the user(s).
 
