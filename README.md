@@ -11,11 +11,11 @@ The most convenient workflow to use this template would be:
 2: Add folders or template files to make the repository more appropriate to your project needs, if any. This will be your own template from now on.<br>
 3: Define the repository as a template (go to *Settings/Template repository*). <br>
 4: Now, you can create your new project and select this as the template. <br>
-5: Edit the README file so you present a summary of the project and information on items such as input data, models, and results.
-6: Develop your project using the structure proposed in the template. For more information, go to "How to work with this project "structure"
-7: Upload the final products (such as publications, figures, maps, etc) to the folder with appropriate (authorized) formats.
-8: To "archive your project", add the reference(s) (of the project report, research article, or article) developed within the project to the README file.
-8: Rename your project by adding the word "_FROZEN" at the end (this avoids "archiving" your repository, although that is an additional option).
+5: Edit the README file so you present a summary of the project and information on items such as input data, models, and results. <br>
+6: Develop your project using the structure proposed in the template. For more information, go to "How to work with this project "structure". <br>
+7: Upload the final products (such as publications, figures, maps, etc) to the folder with appropriate (authorized) formats. <br>
+8: To "archive your project", add the reference(s) (of the project report, research article, or article) developed within the project to the README file. <br>
+9: Rename your project by adding the word "_FROZEN" at the end (this avoids "archiving" your repository, although that is an additional option). <br>
 
 In that way, the project is assumed to be finalized and should not have new commits.
 
